@@ -82,8 +82,7 @@ Follow these steps to set up and run Focus Tap on your local machine.
 
 ## 🎥 Video Demonstration
 
-*(Coming Soon / Add link here)*
-<!-- ![Video Demo](path/to/video.mp4) -->
+<video src="https://github.com/user-attachments/assets/84191335-eb2f-4b01-a3f2-03dd0f2dddf0" controls width="100%"></video>
 
 ---
 
