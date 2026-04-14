@@ -77,7 +77,7 @@ Follow these steps to set up and run Focus Tap on your local machine.
 
 | Home Screen | ToDo List Screen | Focus Timer Screen | Break Game Screen | Statistics Screen |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/home_screen.png" width="180" height="240"/> | <img src="screenshots/todo_list.png" width="180" height="240"/> | <img src="screenshots/focus_timer.png" width="180" height="240"/> | <img src="screenshots/break_game.png" width="180" height="240"/> | <img src="screenshots/statistics.png" width="180" height="240"/> |
+| <img src="screenshots/home_screen.png" width="180" height="400"/> | <img src="screenshots/todo_list.png" width="180" height="400"/> | <img src="screenshots/focus_timer.png" width="180" height="400"/> | <img src="screenshots/break_game.png" width="180" height="400"/> | <img src="screenshots/statistics.png" width="180" height="400"/> |
 
 
 ## 🎥 Video Demonstration
